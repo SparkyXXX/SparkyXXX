@@ -5,7 +5,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SparkyXXX/SparkyXXX/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
-📕 &nbsp;**博客动态**
+
+📕 **博客动态**
 <!-- BLOG-POST-LIST:START -->
 - [3DGS原理](https://hatrix.site/posts/3DGS%E5%8E%9F%E7%90%86/)
 - [工具箱](https://hatrix.site/posts/%E5%B7%A5%E5%85%B7%E7%AE%B1/)
