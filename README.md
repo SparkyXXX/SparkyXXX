@@ -5,3 +5,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SparkyXXX/SparkyXXX/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
+📕 &nbsp;**博客动态**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
