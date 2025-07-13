@@ -2,11 +2,11 @@
 
 ## 📕 博客动态
 <!-- BLOG-POST-LIST:START -->
+- [相机模型](https://hatrix.site/posts/%E7%9B%B8%E6%9C%BA%E6%A8%A1%E5%9E%8B/)
 - [3DGS原理](https://hatrix.site/posts/3DGS%E5%8E%9F%E7%90%86/)
+- [博客杂货铺](https://hatrix.site/posts/%E5%8D%9A%E5%AE%A2%E6%9D%82%E8%B4%A7%E9%93%BA/)
+- [操作备忘录](https://hatrix.site/posts/%E6%93%8D%E4%BD%9C%E5%A4%87%E5%BF%98%E5%BD%95/)
 - [工具箱](https://hatrix.site/posts/%E5%B7%A5%E5%85%B7%E7%AE%B1/)
-- [三维表示方法](https://hatrix.site/posts/%E4%B8%89%E7%BB%B4%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95/)
-- [CMOS传感器](https://hatrix.site/posts/CMOS%E4%BC%A0%E6%84%9F%E5%99%A8/)
-- [PCB开发](https://hatrix.site/posts/PCB%E5%BC%80%E5%8F%91/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](profile-3d-contrib/profile-season-animate.svg)
