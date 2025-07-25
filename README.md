@@ -3,10 +3,10 @@
 ## 📕 博客动态
 <!-- BLOG-POST-LIST:START -->
 - [数学工具](https://hatrix.site/posts/%E6%95%B0%E5%AD%A6%E5%B7%A5%E5%85%B7/)
-- [空间位姿表示](https://hatrix.site/posts/%E7%A9%BA%E9%97%B4%E4%BD%8D%E5%A7%BF%E8%A1%A8%E7%A4%BA/)
 - [相机模型](https://hatrix.site/posts/%E7%9B%B8%E6%9C%BA%E6%A8%A1%E5%9E%8B/)
 - [3DGS原理](https://hatrix.site/posts/3DGS%E5%8E%9F%E7%90%86/)
 - [深度学习python基础](https://hatrix.site/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0python%E5%9F%BA%E7%A1%80/)
+- [博客杂货铺](https://hatrix.site/posts/%E5%8D%9A%E5%AE%A2%E6%9D%82%E8%B4%A7%E9%93%BA/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](profile-3d-contrib/profile-season-animate.svg)
