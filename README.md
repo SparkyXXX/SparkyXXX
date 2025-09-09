@@ -2,11 +2,11 @@
 
 ## 📕 博客动态
 <!-- BLOG-POST-LIST:START -->
+- [Verilog 语法](https://hatrix.site/posts/Verilog%E8%AF%AD%E6%B3%95/)
+- [FPGA 入门](https://hatrix.site/posts/FPGA%E5%85%A5%E9%97%A8/)
 - [高斯泼溅](https://hatrix.site/posts/%E9%AB%98%E6%96%AF%E6%B3%BC%E6%BA%85/)
 - [编码与开发](https://hatrix.site/posts/%E7%BC%96%E7%A0%81%E4%B8%8E%E5%BC%80%E5%8F%91/)
 - [数学工具](https://hatrix.site/posts/%E6%95%B0%E5%AD%A6%E5%B7%A5%E5%85%B7/)
-- [博客杂货铺](https://hatrix.site/posts/%E5%8D%9A%E5%AE%A2%E6%9D%82%E8%B4%A7%E9%93%BA/)
-- [工具箱](https://hatrix.site/posts/%E5%B7%A5%E5%85%B7%E7%AE%B1/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](profile-3d-contrib/profile-season-animate.svg)
